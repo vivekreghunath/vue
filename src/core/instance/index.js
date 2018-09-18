@@ -21,3 +21,4 @@ lifecycleMixin(Vue)
 renderMixin(Vue)
 
 export default Vue
+Stuffed nan
